@@ -48,7 +48,7 @@ class Game(arcade.Window):
             pass  # move left
         if symbol == arcade.key.DOWN:
             pass  # move down
-        if symbol == arcade.key.RIGHt:
+        if symbol == arcade.key.RIGHT:
             pass  # move right
 
         if symbol == arcade.key.QUESTION:

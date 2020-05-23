@@ -31,7 +31,31 @@ class Game(arcade.Window):
         pass
 
     def on_key_press(self, symbol: int, modifiers: int):
-        pass
+        # process input for player 1
+        if symbol == arcade.key.W:
+            pass  # move up
+        if symbol == arcade.key.A:
+            pass  # move left
+        if symbol == arcade.key.S:
+            pass  # move down
+        if symbol == arcade.key.D:
+            pass  # move right
+
+        # process input for player 2
+        if symbol == arcade.key.UP:
+            pass  # move up
+        if symbol == arcade.key.LEFT:
+            pass  # move left
+        if symbol == arcade.key.DOWN:
+            pass  # move down
+        if symbol == arcade.key.RIGHt:
+            pass  # move right
+
+        if symbol == arcade.key.QUESTION:
+            pass  # spin player 1's buzzsaw
+
+        if symbol == arcade.key.E:
+            pass  # spin player 2's buzzsaw
 
     def on_key_release(self, symbol: int, modifiers: int):
         pass

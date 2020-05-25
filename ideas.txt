@@ -1,0 +1,11 @@
+ideas:
+    for the puzzle game:
+        shared sawblade ammo
+        intermediary objectives...
+            stand on a switch
+            hold an item
+            pull a lever
+            etc.
+
+    for spin-off versions:
+        competitive multiplayer (2-4 players, last man standing. kill each other with sawblades/run away)
